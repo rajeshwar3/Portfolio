@@ -153,7 +153,7 @@ header {
         height: 250px;
         margin: auto;
         display: block;
-        margin-top: 175px;
+        margin-top: 200px;
     }
 
     .home-about {
@@ -166,5 +166,8 @@ header {
     .header{
         flex-direction: row;
         justify-content: center;
+    }
+    .navbar-btn{
+        width: 60px;
     }
 }
