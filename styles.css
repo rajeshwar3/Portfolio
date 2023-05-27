@@ -165,5 +165,6 @@ header {
     }
     .header{
         flex-direction: row;
+        width: 15px;
     }
 }
