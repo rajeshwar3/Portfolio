@@ -149,8 +149,8 @@ header {
     }
 
     .home-img {
-        width: 200px;
-        height: 200px;
+        width: 250px;
+        height: 250px;
         margin: auto;
         display: block;
         margin-top: 175px;
@@ -165,6 +165,6 @@ header {
     }
     .header{
         flex-direction: row;
-        width: 15px;
+        justify-content: center;
     }
 }
